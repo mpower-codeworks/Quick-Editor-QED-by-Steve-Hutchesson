@@ -30,7 +30,9 @@ description page below from `3.5`.
 
 `Wickedly Crafted in Microsoft Assembly (MASM)`
 
-`Description`	Miniature programming editor (37k). A gimmick free 
+`Description`
+
+Miniature programming editor (37k). A gimmick free 
 low resource demand tool with a minimum memory footprint that will 
 run on a 486 in VGA 16 Colour. Ideally suited for low resolution 
 laptops that do not support graphics intensive resource hungry 
@@ -69,10 +71,14 @@ no DLL HELL and no side by side DLLs requiring the
        published in the help file.
  
 `(b)` <b>`Fully programmable menus`</b><br>
-       A powerful feature that allows the programmer to configure a wide number of tools to suit their programming style.
+       A powerful feature that allows the programmer to 
+       configure a wide number of tools to suit their 
+       programming style.
    
 `(c)` <b>`Plugin DLL Interface`</b><br>
-       A DLL interface that allows the programmer to extend Quick Editor in whatever way they require with published specifications.
+       A DLL interface that allows the programmer to 
+       extend Quick Editor in whatever way they require 
+       with published specifications.
    
 `(d)` <b>`Auto-indent`</b><br>
        Smart logic Auto-Indent for fast code entry.
@@ -81,13 +87,17 @@ no DLL HELL and no side by side DLLs requiring the
        Toolbar buttons for indenting blocks of selected code.
    
 `(f)`  <b>`Compose and edit in HEX notation`</b><br>
-       A capacity for the true low level programmer. Compose in HEX notation and save the result as a binary file.
+       A capacity for the true low level programmer. Compose 
+       in HEX notation and save the result as a binary file.
    
 `(g)` <b>`User selected editor font`</b><br>
        Program in the available font of your choice.
    
 `(h)` <b>`Block logic text replacement`</b><br>
-       Replace in either selection or globally. Both normal replace and whole word replace that does not replace within quoted text.
+       Replace in either selection or globally. Both normal 
+       replace and whole word replace that does not replace 
+       within quoted text.
+       
        A capacity designed for programmers editing code.
    
 `(i)`  <b>`Goto Line Number`</b><br>
@@ -97,4 +107,10 @@ no DLL HELL and no side by side DLLs requiring the
  	
 `General Comments`
 
-Quick Editor is a "registry safe" application that neither reads nor writes to the registry. It does not install any files into the operating system and does not  depend on any runtime DLLs. It is supplied with a number of dedicated DLLs that are loaded when needed and unloaded when they are finished. The editor will run without the dedicated DLLs if they are not present in the same directory.
+Quick Editor is a "registry safe" application that neither reads 
+nor writes to the registry. It does not install any files into 
+the operating system and does not  depend on any runtime DLLs. 
+It is supplied with a number of dedicated DLLs that are loaded 
+when needed and unloaded when they are finished. The editor will 
+run without the dedicated DLLs if they are not present in the 
+same directory.
