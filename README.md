@@ -7,7 +7,8 @@ I know of, after
 and Top Gun.
 
 This is version `4.0` and newer than the recovered 
-description page below from `3.5`.
+description page below from `3.5`. There is no known
+copy of the source code.
 
 <table>
   <tr>
