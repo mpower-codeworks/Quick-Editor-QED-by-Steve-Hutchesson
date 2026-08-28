@@ -5,6 +5,13 @@ the third editor by Steve that
 I know of, after
 [TheGun](https://github.com/mpower-codeworks/TheGun-by-Steve-Hutchesson)
 and Top Gun.
-<img src="images/face.jpg" align="left" width="30%" alt="face">
-
-<img src="images/qed.jpg" align="left" width="30%" alt="qed">
+<table width=60%>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <img src="images/face.jpg" align="left" width="40%" alt="face">
+    </td>
+    <td align="left" width="50%" valign="top">
+      <img src="images/qed.jpg" align="left" width="45%" alt="qed">
+    </td>
+  </tr>
+</table>
