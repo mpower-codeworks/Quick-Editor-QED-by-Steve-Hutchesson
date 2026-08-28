@@ -32,6 +32,8 @@ There is no known copy of the source code.
 
 `Wickedly Crafted in Microsoft Assembly (MASM)`
 
+<img src="images/darkcode.jpg" width="330" alt="dark code"><br>
+
 `Description`
 
 Miniature programming editor (37k). A gimmick free 
