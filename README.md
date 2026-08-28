@@ -98,9 +98,8 @@ no DLL HELL and no side by side DLLs requiring the
 `(h)` <b>`Block logic text replacement`</b><br>
        Replace in either selection or globally. Both normal 
        replace and whole word replace that does not replace 
-       within quoted text.
-       
-       A capacity designed for programmers editing code.
+       within quoted text.<br>       
+       `A capacity designed for programmers editing code.`
    
 `(i)`  <b>`Goto Line Number`</b><br>
        Go directly to a line number for correcting errors in code.
