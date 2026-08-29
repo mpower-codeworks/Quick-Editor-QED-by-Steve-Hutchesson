@@ -4,7 +4,8 @@ QED by Steve Hutchesson. This is
 the third editor by Steve that
 I know of, after
 [TheGun](https://github.com/mpower-codeworks/TheGun-by-Steve-Hutchesson)
-and Top Gun.
+and Top Gun. QED has been difficult to find
+for some time, and I wanted to give it a home.
 
 This is version `4.0` and newer than the recovered 
 description page below from `3.5`. 
